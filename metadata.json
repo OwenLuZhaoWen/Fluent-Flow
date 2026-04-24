@@ -1,0 +1,6 @@
+{
+  "name": "Fluent Flow",
+  "description": "Language learning app utilizing real-time conversational AI to practice spoken languages across multiple scenarios.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
